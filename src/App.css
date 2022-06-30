@@ -1,38 +1,60 @@
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+font-family: Verdana, sans-serif;
+background-image: url('../public/bg1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.login-wrapper {
+  margin-top: 50px;
+
+  padding: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.overview-container{
+  margin-left: 5rem;
+  
+}
+.video-player{
+  margin-top:1rem;
+  height:20rem;
+}
+.video-card{
+  margin:1rem;
+  overflow:hidden;
+  box-shadow: -3px 6px 5px 0px rgba(176,164,176,1);
+  border-radius: 5px;
+  background-color: antiquewhite;
 }
 
-.App-link {
-  color: #61dafb;
+.align-center{
+  text-align:center;
+  content:center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.logout{
+  float:right;
+}
+
+.detail-row{
+  height :auto;
+}
+
+.related-Video{
+  overflow:hidden;
+  box-shadow: -3px 6px 5px 0px rgba(176,164,176,1);
+  margin:5px;
+  background-color: antiquewhite;
+
+}
+
+.comment
+{
+  background-color:antiquewhite;
+  margin-top:2px;
+  margin-bottom:2px;
+  border-radius:5px;
 }

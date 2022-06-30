@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1,
+      "url": "src/videos/video2.mp4",
+      "type": "Cartoon",
+      "videoLength": "1.26",
+      "description": "This is meme",
+      "category": "comedy",
+      "releaseDate": "21/12/2021",
+      "title": "Tom and Jerry",
+      "views": 320020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 2,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.39",
+      "description": "Who let the dogs out",
+      "category": "comedy",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 3,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "0.26",
+      "description": "Manga in 2003",
+      "category": "Cartoon",
+      "releaseDate": "02/03/2002",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 4,
+      "url": "../videos/video1.mp4",
+      "type": "History",
+      "videoLength": "17.26",
+      "description": "world History",
+      "category": "Education",
+      "releaseDate": "26/12/2001",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 5,
+      "url": "../videos/video1.mp4",
+      "type": "History",
+      "videoLength": "17.26",
+      "description": "Europe History",
+      "category": "History",
+      "releaseDate": "12/12/2015",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 6,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "React tutorial videos",
+      "category": "History",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 7,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "This is video captured for training of Blind people",
+      "category": "History",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 8,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "EA sports",
+      "category": "Cartoon",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 9,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "Cricket",
+      "category": "History",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 10,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "Berlin Berlin",
+      "category": "Education",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 11,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "Blind shadow",
+      "category": "Cartoon",
+      "releaseDate": "12/12/2014",
+      "views": 3020,
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    },
+    {
+      "id": 12,
+      "url": "../videos/video1.mp4",
+      "type": "animations",
+      "videoLength": "1.26",
+      "description": "lorem Ipsum",
+      "category": "Education",
+      "releaseDate": "12/12/2014",
+      "comments": [
+            "Hi this is awesome video",
+            "waiting for the second part"
+        ]
+    }
+]
